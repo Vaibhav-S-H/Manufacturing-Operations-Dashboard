@@ -9,16 +9,16 @@ This Power BI dashboard analyzes manufacturing data to improve **Production Effi
 
 ### 1. Production Performance Report (Executive View)
 *Tracking monthly volume trends, revenue, and defect rates.*
-![Production Report](Dashboard_Overview.png)
+![Production Report](Dashboard_Overview.png.png)
 
 ### 2. Production Efficiency & Cost Analysis
 *Detailed breakdown of machine efficiency, cost per unit, and operator performance.*
-![Efficiency Analysis](Production_Efficency.png)
+![Efficiency Analysis](Production_Efficency.png.png)
 
 
 ### 3. Quality Control & Root Cause Analysis
 *Using Decomposition Trees and Pareto Charts to identify primary defect sources.*
-![Quality Analysis](Defect_Analysis.png)
+![Quality Analysis](Defect_Analysis.png.png)
 
 ---
 
