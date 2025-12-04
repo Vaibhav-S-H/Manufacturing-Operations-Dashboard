@@ -1,5 +1,7 @@
 # Manufacturing Operations & Quality Dashboard
 
+![Dashboard Demo](Manufacturing-Operations-Dashboard-GIF.gif)
+
 ## 📊 Project Overview
 This Power BI dashboard analyzes manufacturing data to improve **Production Efficiency** and reduce **Defect Rates**. It provides actionable insights into machine performance, cost variance, and quality control (Pareto analysis).
 
