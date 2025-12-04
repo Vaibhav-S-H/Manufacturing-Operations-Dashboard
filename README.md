@@ -13,7 +13,7 @@ This Power BI dashboard analyzes manufacturing data to improve **Production Effi
 
 ### 2. Production Efficiency & Cost Analysis
 *Detailed breakdown of machine efficiency, cost per unit, and operator performance.*
-![Efficiency Analysis](production_Efficemcy.png)
+![Efficiency Analysis](Production_Efficency.png)
 
 
 ### 3. Quality Control & Root Cause Analysis
