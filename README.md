@@ -24,7 +24,6 @@ To monitor:
 - On-Time Delivery: 66.6%
 - Total Rejection Qty: 122.9K
 
-![Dashboard Demo](Manufacturing-Operations-Dashboard-GIF.gif)
 
 ## 📊 Project Overview
 This Power BI dashboard analyzes manufacturing data to improve **Production Efficiency** and reduce **Defect Rates**. It provides actionable insights into machine performance, cost variance, and quality control (Pareto analysis).
