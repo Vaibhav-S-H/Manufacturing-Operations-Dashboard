@@ -18,8 +18,8 @@ To monitor:
 
 ## Key Metrics
 
-- Total Revenue: ₹254.4M
-- YTD Production: 15.1M Units
+- Total Revenue: ₹23.7M
+- YTD Production: 3.8M Units
 - Average Rejection Rate: 0.8%
 - On-Time Delivery: 66.6%
 - Total Rejection Qty: 122.9K
