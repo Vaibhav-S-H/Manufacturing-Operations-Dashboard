@@ -1,4 +1,28 @@
-# Manufacturing Operations & Quality Dashboard
+# Manufacturing Operations Performance Dashboard (Power BI)
+
+A business intelligence project analyzing production performance, defect rates, and delivery efficiency in a footwear manufacturing unit.
+
+---
+
+## Project Objective
+
+To monitor:
+
+- Revenue performance
+- Production volume trends
+- Defect root causes
+- On-time delivery performance
+- Client contribution analysis
+
+---
+
+## Key Metrics
+
+- Total Revenue: ₹254.4M
+- YTD Production: 15.1M Units
+- Average Rejection Rate: 0.8%
+- On-Time Delivery: 66.6%
+- Total Rejection Qty: 122.9K
 
 ![Dashboard Demo](Manufacturing-Operations-Dashboard-GIF.gif)
 
@@ -41,8 +65,30 @@ Below are the primary DAX formulas used to calculate the KPIs:
 * `OTD %` = (On-Time Orders / Total Orders)
 * `Cost Variance` = (Standard Cost - Actual Cost)
 
-**1. Production Efficiency %**
-> Measures actual output against the standard target.
-```dax
+Focus:
+- Pareto analysis of defect sources
+- Department-wise rejection drilldown
+- Machine-level quality impact
+- Quality trend analysis
+
+---
+
+## Skills Demonstrated
+
+- Data Modeling (Fact-Dimension structure)
+- KPI Engineering
+- Pareto Analysis (80/20 rule)
+- Root Cause Analysis
+- Drill-through & Interactive Filtering
+- Manufacturing Analytics
+
+---
+
+## Business Insights
+
+- 0.8% rejection rate across 15M units → quality stable but root causes concentrated
+- 80% of defects driven by top 3 operations
+- On-time delivery at 66% → operational improvement opportunity
+- Revenue concentrated among top 4 clients
 Production Efficiency % = DIVIDE([Total Produced Qty], [Target Qty], 0)
 
